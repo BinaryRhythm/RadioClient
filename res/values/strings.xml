@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">RadioClient</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="nav_desc">nav_desc</string>
+    <string name="send">发 送</string>
+    <string name="input_contents">请输入要发送的内容~</string>
+    <string name="destination_ip">目的地址（IP）：</string>
+    <string name="input_ip">请输入接收电台地址（IP）：</string>
+    <string name="input_ip_list">请输入接收电台地址列表（IP逗号分隔）：</string>
+    <string name="original">发送方</string>
+    <string name="destination">接受方</string>
+    <string name="contents">内 容</string>
+    <string name="time">时 间</string>
+
+</resources>

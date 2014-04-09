@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <TableRow
+            android:id="@+id/tableRow1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+       
+              <TextView
+                    android:layout_width="100dip"
+                    android:layout_height="20dip"
+                    android:gravity="center"
+                    android:text="@string/original"
+                    android:textSize="16dip"
+                    android:textStyle="bold" />
+                    <TextView
+                    android:layout_width="100dip"
+                    android:layout_height="20dip"
+                    android:gravity="center"
+                    android:text="@string/destination"
+                    android:textSize="16dip"
+                    android:textStyle="bold" />
+                          <TextView
+                    android:layout_width="100dip"
+                    android:layout_height="20dip"
+                    android:gravity="center"
+                    android:text="@string/contents"
+                    android:textSize="16dip"
+                    android:textStyle="bold" />
+                                <TextView
+                    android:layout_width="100dip"
+                    android:layout_height="20dip"
+                    android:gravity="center"
+                    android:text="@string/time"
+                    android:textSize="16dip"
+                    android:textStyle="bold" />
+    
+        </TableRow>
+
+    </TableLayout>
+
+
+</LinearLayout>
